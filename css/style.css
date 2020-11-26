@@ -1,0 +1,14 @@
+.box{
+	background-color: gray;
+	min-height: 80px;
+	margin-bottom: 10px;
+	border: .5rem solid black;
+}
+.mg-400{
+   
+   min-height: 100px;
+}
+
+.container img{
+	min-height: 60px;
+}
